@@ -5,10 +5,12 @@
     <img width="400" src="https://raw.githubusercontent.com/rienkkk/awesome-matter/main/awesome_matter_logo.png" alt="Awesome Matter">
 </div>
 
-Matter is an open-source protocol targeting to unify the smart home world.
+Matter is a communication protocol to connect compatible devices and systems with one another. Making smart home devices more secure, more reliable, and seamless to use.
 
-Aweomse Matter is a curated list of awesome
+Awesome Matter is a curated list of awesome
 [Matter]([https://www.home-assistant.io](https://csa-iot.org/all-solutions/matter/)) resources.
+
+For a technical deep dive, you can look at the [official matter repository](https://github.com/project-chip/connectedhomeip) on GitHub.
 
 The list is divided into categories. The links in those categories do not have
 pre-established order; the order is for contribution. If you want to contribute,
