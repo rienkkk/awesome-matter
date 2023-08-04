@@ -4,6 +4,7 @@
 <div align="left">
     <img width="400" src="https://raw.githubusercontent.com/rienkkk/awesome-matter/main/awesome_matter_logo.png" alt="Awesome Matter">
 </div>
+<br>
 
 Matter is a communication protocol to connect compatible devices and systems with one another. Making smart home devices more secure, more reliable, and seamless to use.
 
