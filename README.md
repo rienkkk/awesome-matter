@@ -36,7 +36,6 @@ You can navigate through the list by:
 
 - Simply press <kbd>command/ctrl</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our [_Contents list_](#contents)
-- Alternatively, use the search on our website: <https://www.awesome-ha.com>
 
 TODO(Rienk): Implement all links.
 ## Communities
