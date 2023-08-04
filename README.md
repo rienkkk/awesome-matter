@@ -1,7 +1,7 @@
 # Awesome Matter
 <!--lint disable double-link-->
 
-<div align="center">
+<div align="left">
     <img width="400" src="https://raw.githubusercontent.com/rienkkk/awesome-matter/main/awesome_matter_logo.png" alt="Awesome Matter">
 </div>
 
@@ -29,19 +29,12 @@ to suggest additions, updates, or removals.
 - [Trademark Legal Notice](#trademark-legal-notice)
 
 ## How to use
-
-Awesome Home Assistant is a fantastic list for people trying to automate every
-aspect of their home. Automating your home is a long, hard, and never finished
-task that usually involves a lot of tinkering.
-
 You can navigate through the list by:
 
-- Simply press <kbd>command/ctrl</kbd> + <kbd>F</kbd> to search for a keyword
+- Simply presssing <kbd>command/ctrl</kbd> + <kbd>F</kbd> to search for a keyword
 - Go through our [_Contents list_](#contents)
-
-TODO(Rienk): Implement all links.
+  
 ## Communities
-_Check out one of the communities._
 
 - [Reddit](https://www.reddit.com/r/MatterProtoco) - Matter Subreddit. 
 
