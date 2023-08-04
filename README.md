@@ -43,6 +43,8 @@ TODO(Rienk): Implement all links.
 ## Communities
 _Check out one of the communities._
 
+- [Reddit](https://www.reddit.com/r/MatterProtoco) - Matter Subreddit. 
+
 ## Development
 _Tools to get started developing with Matter._
 
@@ -56,8 +58,15 @@ _Tools to get started developing with Matter._
 ## Blogs
 _Blogs around Matter._
 
+- [Homekit News](https://homekitnews.com/) - Blog focusing on Matter and Homekit
+- [Matter Smarthome DE](https://matter-smarthome.de/en/blog-en/) - Independent info page on the smart home standard Matter
+- [The Matter Hub](https://thematterhub.com/) - All things Matter.
+- 
+
 ## Uncategorized
 _Valuable links, that don't fit in any of the above categories._
+
+- [Offical Website](https://csa-iot.org/) - Offical website of the alliance behind Matter. 
 
 ## Other Awesome Lists
 
