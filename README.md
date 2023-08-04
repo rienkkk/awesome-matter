@@ -2,7 +2,7 @@
 <!--lint disable double-link-->
 
 <div align="center">
-    <img width="400" src="" alt="Awesome Matter">
+    <img width="400" src="https://raw.githubusercontent.com/rienkkk/awesome-matter/main/awesome_matter_logo.png" alt="Awesome Matter">
 </div>
 
 Matter is an open-source protocol targeting to unify the smart home world.
