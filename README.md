@@ -41,20 +41,19 @@ You can navigate through the list by:
 ## Development
 _Tools to get started developing with Matter._
 
-- [Offical Repository](https://github.com/project-chip/connectedhomeip) - Location where the open source protocol is hosted.
-- [Rust Implementation](https://github.com/project-chip/matter-rs) - Implementation of Matter in rust.
+- [Offical Repository](https://github.com/project-chip/connectedhomeip) - Location where the protocol is hosted.
+- [Rust Implementation](https://github.com/project-chip/matter-rs) - Implementation in rust.
 - [Python Matter Server](https://github.com/home-assistant-libs/python-matter-server) - Implementation of Matter Controller Server over WebSockets.
-- [Matter Node](https://github.com/project-chip/matternode) - This project provides a lightweight node.js implementation of a Matter Node.
-- [Sample Android app](https://github.com/google-home/sample-apps-for-matter-android) - Sample app for android implementing Matter.
-- [Matter JS](https://github.com/project-chip/matter.js) - Implementation of Matter protocol in Typescript with no native dependencies.
+- [Matter Node](https://github.com/project-chip/matternode) - A lightweight node.js implementation of a Matter Node.
+- [Sample Android app](https://github.com/google-home/sample-apps-for-matter-android) - Sample app written in Kotlin.
+- [Matter JS](https://github.com/project-chip/matter.js) - Implementation of the protocol in Typescript with no native dependencies.
 
 ## Blogs
 _Blogs around Matter._
 
-- [Homekit News](https://homekitnews.com/) - Blog focusing on Matter and Homekit
-- [Matter Smarthome DE](https://matter-smarthome.de/en/blog-en/) - Independent info page on the smart home standard Matter
-- [The Matter Hub](https://thematterhub.com/) - All things Matter.
-- 
+- [Homekit News](https://homekitnews.com/)
+- [Matter Smarthome DE](https://matter-smarthome.de/en/blog-en/)
+- [The Matter Hub](https://thematterhub.com/)
 
 ## Uncategorized
 _Valuable links, that don't fit in any of the above categories._
@@ -81,7 +80,7 @@ The original setup of this awesome list is by [Rienk Koenders](https://twitter.c
 
 ## Trademark Legal Notice
 
-This Awesome list is not created, developed, affiliated, supported, maintained
+This Awesome list is not created, developed, affiliated, supported, maintained 
 or endorsed by the Connectivity Standard Alliance.
 
 All product names, logos, brands, trademarks and registered trademarks are
