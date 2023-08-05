@@ -36,6 +36,9 @@ You can navigate through the list by:
 
 - [Reddit](https://www.reddit.com/r/MatterProtoco) - Matter Subreddit. 
 
+## Devices
+- [Device Database](https://github.com/matterdatabase/matterdatabase) - An overview of all devices.
+
 ## Development
 _Tools to get started developing with Matter._
 
