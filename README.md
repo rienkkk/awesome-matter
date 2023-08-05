@@ -73,8 +73,6 @@ This awesome list is an active open-source project and is always open to
 people who want to contribute to it. We have set up a separate document
 containing our [Contribution Guidelines](https://github.com/rienkkk/awesome-matter/blob/main/.github/contributing.md).
 
-The original setup of this awesome list is by [Rienk Koenders](https://twitter.com/RienkKoenders). 
-
 ## Trademark Legal Notice
 
 This Awesome list is not created, developed, affiliated, supported, maintained 
