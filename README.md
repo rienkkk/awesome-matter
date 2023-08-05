@@ -71,8 +71,7 @@ _Valuable links, that don't fit in any of the above categories._
 
 This awesome list is an active open-source project and is always open to
 people who want to contribute to it. We have set up a separate document
-containing our [Contribution Guidelines](https://github.com/rienkkk/awesome-matter).
-TODO(Rienk): Implement contributing guidelines.
+containing our [Contribution Guidelines](https://github.com/rienkkk/awesome-matter/blob/main/.github/contributing.md).
 
 The original setup of this awesome list is by [Rienk Koenders](https://twitter.com/RienkKoenders). 
 
