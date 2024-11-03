@@ -48,6 +48,7 @@ _Tools to get started developing with Matter._
 - [Matter Node](https://github.com/project-chip/matternode) - A lightweight node.js implementation of a Matter Node.
 - [Sample Android app](https://github.com/google-home/sample-apps-for-matter-android) - Sample app written in Kotlin.
 - [Matter JS](https://github.com/project-chip/matter.js) - Implementation of the protocol in Typescript with no native dependencies.
+- [Silicon Labs Matter Starting Point](https://www.silabs.com/wireless/matter) - Entrypoint for Silicon Labs specific Matter development.
 
 ## Blogs
 _Blogs around Matter._
