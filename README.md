@@ -52,6 +52,7 @@ _Tools to get started developing with Matter._
 ## Blogs
 _Blogs around Matter._
 
+- [CSA Blogs (Matter)](https://csa-iot.org/newsroom/?n_category=881&n_tag=908&n_category_alt=&n_lang=) - Official blog posts of CSA about Matter.
 - [Homekit News](https://homekitnews.com/)
 - [Matter Smarthome DE](https://matter-smarthome.de/en/blog-en/)
 - [The Matter Hub](https://thematterhub.com/)
