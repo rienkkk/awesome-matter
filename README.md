@@ -48,6 +48,8 @@ _Tools to get started developing with Matter._
 - [Matter Node](https://github.com/project-chip/matternode) - A lightweight node.js implementation of a Matter Node.
 - [Sample Android app](https://github.com/google-home/sample-apps-for-matter-android) - Sample app written in Kotlin.
 - [Matter JS](https://github.com/project-chip/matter.js) - Implementation of the protocol in Typescript with no native dependencies.
+- [Matter Apple Swift](https://developer.apple.com/documentation/matter) - Apple Swift SDK to enable devices running iOS/iPadOS/macOS/tvOS/visionOS/watchOS to communicate with and control smart home devices.
+- [Matter Apple Objectiv-C](https://developer.apple.com/documentation/matter?language=objc) - Apple Objectiv-C SDK to enable devices running iOS/iPadOS/macOS/tvOS/visionOS/watchOS to communicate with and control smart home devices.
 
 ## Blogs
 _Blogs around Matter._
