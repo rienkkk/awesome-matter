@@ -48,6 +48,10 @@ _Tools to get started developing with Matter._
 - [Matter Node](https://github.com/project-chip/matternode) - A lightweight node.js implementation of a Matter Node.
 - [Sample Android app](https://github.com/google-home/sample-apps-for-matter-android) - Sample app written in Kotlin.
 - [Matter JS](https://github.com/project-chip/matter.js) - Implementation of the protocol in Typescript with no native dependencies.
+- [Google Home Device SDK](https://developers.home.google.com/device-sdk) - SDK for integrating Matter devices with Google.
+- [Google Home Mobile SDK](https://developers.home.google.com/mobile-sdk) - SDK to add Matter support in Android apps.
+- [Google Home APIs](https://developers.home.google.com/apis) - APIs to provide access to Matter infrastructure.
+- [Google Smart Device Management API](https://developers.google.com/nest/device-access) - API to allow integration of Google Nest devices.
 
 ## Blogs
 _Blogs around Matter._
