@@ -49,6 +49,9 @@ _Tools to get started developing with Matter._
 - [Sample Android app](https://github.com/google-home/sample-apps-for-matter-android) - Sample app written in Kotlin.
 - [Matter JS](https://github.com/project-chip/matter.js) - Implementation of the protocol in Typescript with no native dependencies.
 - [certification-tool](https://github.com/project-chip/certification-tool) - CSA test harness and tooling for simplified testing and certification of Matter devices.
+  - [certification-tool-cli](https://github.com/project-chip/certification-tool-cli)
+  - [certification-tool-backend](https://github.com/project-chip/certification-tool-backend)
+  - [certification-tool-frontend](https://github.com/project-chip/certification-tool-frontend)
 
 ## Blogs
 _Blogs around Matter._
