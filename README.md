@@ -60,6 +60,7 @@ _Blogs around Matter._
 _Valuable links, that don't fit in any of the above categories._
 
 - [Offical Website](https://csa-iot.org/) - Offical website of the alliance behind Matter. 
+- [Build with Matter Handbook](https://handbook.buildwithmatter.com) - Official Matter developer handbook.
 
 ## Other Awesome Lists
 
