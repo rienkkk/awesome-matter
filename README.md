@@ -55,6 +55,7 @@ _Blogs around Matter._
 - [Homekit News](https://homekitnews.com/)
 - [Matter Smarthome DE](https://matter-smarthome.de/en/blog-en/)
 - [The Matter Hub](https://thematterhub.com/)
+- [digitalzimmer.de "Matter" search (german only)](https://www.digitalzimmer.de/?s=matter)
 
 ## Uncategorized
 _Valuable links, that don't fit in any of the above categories._
