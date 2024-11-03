@@ -22,6 +22,7 @@ pre-established order; the order is for contribution.
 - [Communities](#communities)
 - [Development](#development)
 - [Blogs](#blogs)
+- [Videos](#videos)
 - [Uncategorized](#uncategorized)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Trademark Legal Notice](#trademark-legal-notice)
@@ -55,6 +56,10 @@ _Blogs around Matter._
 - [Homekit News](https://homekitnews.com/)
 - [Matter Smarthome DE](https://matter-smarthome.de/en/blog-en/)
 - [The Matter Hub](https://thematterhub.com/)
+
+## Videos
+
+- [CSA YouTube Channel](https://www.youtube.com/@ZigbeeAllianceOfficial)
 
 ## Uncategorized
 _Valuable links, that don't fit in any of the above categories._
