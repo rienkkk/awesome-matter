@@ -38,6 +38,7 @@ You can navigate through the list by:
 
 ## Devices
 - [Device Database](https://github.com/matterdatabase/matterdatabase) - An overview of all devices.
+- [CSA Matter Software Components](https://csa-iot.org/csa-iot_products/?p_keywords=&p_type%5B%5D=1053&p_program_type%5B%5D=1049&p_certificate=&p_family=&p_firmware_ver=) - An overview about software components on the official CSA website.
 
 ## Development
 _Tools to get started developing with Matter._
