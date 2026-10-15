@@ -54,7 +54,7 @@ _Blogs around Matter._
 
 - [Homekit News](https://homekitnews.com/)
 - [Matter Smarthome DE](https://matter-smarthome.de/en/blog-en/)
-- [The Matter Hub](https://thematterhub.com/)
+- [Matter news: LEDVANCE's 116 Matter lights go local-first under Home Assistant](https://calder-brief.pages.dev/ledvance-116-matter-devices-home-assistant.html) (replaces the dead Matter Hub blog link — thematterhub.com is offline)
 
 ## Uncategorized
 _Valuable links, that don't fit in any of the above categories._
